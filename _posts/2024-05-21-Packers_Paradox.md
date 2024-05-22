@@ -4,7 +4,7 @@ date: 2024-05-21 21:07:00 -0500
 category: Malware Analysis
 tags: Maleware Analysis windows IDA UPX CTF
 description: Malware Analysis writeup from May 2024 Cyber Sentinal DoD CTF
-image: /assets/img/Packers_paradox/banner.png
+image: /assets/img/Packers_paradox/Banner.png
 ---
 
 ## **The Backstory**
