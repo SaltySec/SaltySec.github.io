@@ -36,7 +36,7 @@ Now lets go into IDA again. This time it acted much closer to expected, and all 
 *The Flag*
 The flag was right there in plain text. Turned out to be a pretty simple one. I never really eneded up learning what the malware was tyring to do, or if it was tying to ping a C2, or really anything about it. But, that's the glory of CTF's, sometimes they're just easier than they seem. Moving forward, I'm really excited to share some more difficult an in depth malware analysis with you all! Despite this one being pretty easy, I still learned a bunch, and am thankful to Correlation 1 for Hosting the CTF.
 
-Thanks everyone, and hope you enjoyed. If you have any feedback, fee free to reach out to me on [X/twitter](https://www.x.com/SaltySec_). Thanks for your time!
+Thanks everyone, and hope you enjoyed. If you have any feedback, feel free to reach out to me on [X/twitter](https://www.x.com/SaltySec_). Thanks for your time!
 
 ``01110011 01110100 01100001 01111001 00100000 01100011 01110101 01110010 01101001 01101111 01110101 01110011 00101100 00100000 01110011 01110100 01100001 01111001 00100000 01110110 01101001 01100111 01101001 01101100 01100001 01101110 01110100.``
 
